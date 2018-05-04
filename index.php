@@ -3,8 +3,6 @@
 
     require_once 'core/Autoload.php';
 
-
-
     $core = Core::getInstance();
     $core->run($_GET['path']);
 
