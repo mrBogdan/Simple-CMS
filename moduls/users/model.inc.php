@@ -1,4 +1,5 @@
 <?php
-    class User_Module {
+    class Users_Module
+    {
 
     }

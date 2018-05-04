@@ -1,4 +1,5 @@
 <?php
-    class News_Module {
+    class News_Module
+    {
 
     }

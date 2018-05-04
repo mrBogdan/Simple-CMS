@@ -1,5 +1,6 @@
 <?php
-    class News_Controller {
+    class News_Controller extends Controller
+    {
         public function AddAction($paramas)
         {
             echo 'AddAction';

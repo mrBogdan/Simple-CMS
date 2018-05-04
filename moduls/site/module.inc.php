@@ -1,4 +1,5 @@
 <?php
-    class Site_Module {
+    class Site_Module
+    {
 
-}
+    }
