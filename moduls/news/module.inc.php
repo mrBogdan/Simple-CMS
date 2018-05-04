@@ -1,4 +1,4 @@
 <?php
-    class News_Model {
+    class News_Module {
 
     }

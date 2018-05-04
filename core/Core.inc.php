@@ -1,6 +1,6 @@
 <?php
 
-    require_once dirname(__DIR__) . '/config/database.inc.php';
+    require_once dirname(__DIR__) . '/config/config.inc.php';
 
     class Core
     {
